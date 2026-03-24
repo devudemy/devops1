@@ -5,4 +5,5 @@ venus
 jupitor
 car 
 horse
-
+cow 
+cat
