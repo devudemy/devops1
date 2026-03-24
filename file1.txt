@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 moon
 sun
 jan
@@ -6,3 +7,5 @@ jupitor
 car 
 horse
 
+=======
+>>>>>>> parent of fa41dcc (added some line)
